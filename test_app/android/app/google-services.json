@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "888501380095",
+    "firebase_url": "https://wastenavigate-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "wastenavigate",
+    "storage_bucket": "wastenavigate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888501380095:android:570c527934e4506e1b7dca",
+        "android_client_info": {
+          "package_name": "com.example.test_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "888501380095-6gaourlpq740r6e6ndtvragumvvd9vjt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test_app",
+            "certificate_hash": "cd70349e559acbb8c621e993bb6557ff1fb2da29"
+          }
+        },
+        {
+          "client_id": "888501380095-vm8tpdhh5ol9018tl6jl3k3lobak36i8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUAejwR96_6RDv7Zo2JhBiz5qR4MvOZRE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "888501380095-vm8tpdhh5ol9018tl6jl3k3lobak36i8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "888501380095-260pgr0ff0tamnlff6bnmvscc7kemcrc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.testApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
